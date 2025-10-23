@@ -1,6 +1,6 @@
 ## Robust and Computation-aware Gaussian Process
 
-This is the robust and computation-aware Gaussian process (RCaGP) code applied for high-throughput BO. The repository includes the code to run EULBO and DPP-BO methods using RCaGP as well as the baseline methods. The codes are forked from the official implementation of EULBO by Maus, et al., 2024. 
+This is the robust and computation-aware Gaussian process (RCaGP) code ([arxiv link](https://arxiv.org/abs/2505.21133)) applied for high-throughput BO. The repository includes the code to run EULBO and DPP-BO methods using RCaGP as well as the baseline methods. The codes are forked from the official implementation of EULBO by Maus, et al., 2024. 
 
 ## Environment 
 
